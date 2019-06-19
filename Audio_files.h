@@ -1,0 +1,46 @@
+extern long zero[49224];
+extern long one[43764];
+extern long two[38520];
+extern long three[40320];
+extern long four[38664];
+extern long five[21053];
+extern long six[33132];
+extern long seven[38040];
+extern long eight[31188];
+extern long nine[44748];
+extern long A[32808];
+extern long B[30552];
+extern long C[30504];
+extern long D[33372];
+extern long E[33240];
+extern long F[27444];
+extern long G[32640];
+extern long H[37284];
+extern long I[34356];
+extern long J[34488];
+extern long K[35724];
+extern long L[32352];
+extern long M[34404];
+extern long N[33180];
+extern long O[32844];
+extern long P[30120];
+extern long Q[31356];
+extern long R[32424];
+extern long S[29292];
+extern long T[30420];
+extern long U[34632];
+extern long V[37044];
+extern long W[41592];
+extern long X[26364];
+extern long Y[37464];
+extern long Z[35232];
+
+extern long hi[48064];
+extern long thi[58304];
+extern long is[58304];
+extern long our[53184];
+extern long embedded[58304];
+extern long mini[53184];
+extern long project[58304];
+
+
